@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Solved.ac
 Yujun Lee](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljy0929)](https://solved.ac/lyj0929)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?YujunLee=<YujunLee>&show_icons=true&locale=en&layout=compact" alt="YujunLee" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?YujunLee=<YujunLee>&show_icons=true&locale=en&layout=compact" alt="<YujunLee>" /></p>
 
 <!--
 **LeeYJ2147/LeeYJ2147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
