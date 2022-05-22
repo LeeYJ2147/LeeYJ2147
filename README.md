@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-Yujun Lee](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljy0929)](https://solved.ac/lyj0929)
+tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljy0929)](https://solved.ac/lyj0929)
 
 
 <!--
