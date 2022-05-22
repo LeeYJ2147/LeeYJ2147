@@ -2,7 +2,7 @@
 
 [![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=LeeYJ2147)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYJ2147&layout=dark&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYJ2147&layout=dark&theme=Demo)
 ### Hi there 👋
 
 
