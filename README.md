@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Solved.ac
+Yujun Lee](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljy0929)](https://solved.ac/lyj0929)
 
 <!--
 **LeeYJ2147/LeeYJ2147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
