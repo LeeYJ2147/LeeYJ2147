@@ -3,6 +3,8 @@
 [![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=LeeYJ2147)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYJ2147&layout=dark&theme=compact)
+
+[![CodeForces Profile](https://cf.leed.at?id=zX_ZizonYJ_Xz)](https://codeforces.com/profile/zX_ZizonYJ_Xz)
 ### Hi there 👋
 
 
