@@ -1,5 +1,3 @@
-동국대학교 AI소융 23학번 이유준
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj0929)](https://solved.ac/lyj0929)
 
 [![Seongil's github stats](https://github-readme-stats.vercel.app/api?username=LeeYJ2147)](https://github.com/anuraghazra/github-readme-stats)
