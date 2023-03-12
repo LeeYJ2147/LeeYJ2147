@@ -4,9 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYJ2147&layout=dark&theme=compact)
 
+<!--
 [![CodeForces Profile](https://cf.leed.at?id=zX_ZizonYJ_Xz)](https://codeforces.com/profile/zX_ZizonYJ_Xz)
 ### Hi there 👋
-
+-->
 
 <!--
 **LeeYJ2147/LeeYJ2147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
