@@ -1,6 +1,7 @@
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj0929)](https://solved.ac/lyj0929)
 
 <!--
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj0929)](https://solved.ac/lyj0929)
+
 [![CodeForces Profile](https://cf.leed.at?id=zX_ZizonYJ_Xz)](https://codeforces.com/profile/zX_ZizonYJ_Xz)
 ### Hi there 👋
 -->
